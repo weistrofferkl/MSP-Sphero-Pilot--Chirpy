@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-### David Chan, Nathan Saslavsky Kendall Weistroffer
+### David Chan, Nathan Saslavsky, Kendall Weistroffer
 ### Sphero Twitter Bot
 ### April 1, 2016
 
