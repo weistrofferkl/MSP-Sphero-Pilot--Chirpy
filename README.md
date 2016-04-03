@@ -6,3 +6,9 @@ This week we received the Sphero 2.0 in the mail and began brainstorming ideas f
 
 Week 2:
 This week we were able to find the Sphero SDK and add it to our GitHub repository. Due to finals and the onset of Spring Break we were only able to meet for a limited amount of time. 
+
+
+Week 3:
+This week we got our Sphero's Twitter Account set up and worked with the Twitter API to be able to change Sphero's RGB color by tweeting at Sphero's Twitter (@DUSphero).
+
+'
